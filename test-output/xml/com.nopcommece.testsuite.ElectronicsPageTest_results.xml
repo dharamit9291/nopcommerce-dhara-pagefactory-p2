@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="44.409">
+  <properties />
+  
+  
+            <testcase name="TheProductAddedSuccessfullyAndPlaceOrderSuccessfully" time="39.006" classname="com.nopcommece.testsuite.ElectronicsPageTest" />
+                <testcase name="verifyUserShouldNavigateToCellPhonesPageSuccessfully" time="5.403" classname="com.nopcommece.testsuite.ElectronicsPageTest" />
+      
+</testsuite>

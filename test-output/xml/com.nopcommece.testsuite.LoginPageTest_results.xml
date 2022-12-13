@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.575">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToLoginPage" time="1.303" classname="com.nopcommece.testsuite.LoginPageTest" />
+                <testcase name="verifyErrorMessageWithInvalidCredentials" time="3.272" classname="com.nopcommece.testsuite.LoginPageTest" />
+      
+</testsuite>
